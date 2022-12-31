@@ -1,4 +1,6 @@
 pynmap
+
+![Screenshot](/screenshot.png)
 =======================================================================================================================
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
